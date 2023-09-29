@@ -27,7 +27,7 @@ let n5 = 6;
 let soma = n1+n2;
 let subtracao = n5-n3;
 let divisao = n4/n1;
-let multiplicacao = n3*n4
+let multiplicacao = n3*n4;
 
 console.log("O resultado da soma é:", soma);
 console.log("O resultado da subtração é:", subtracao);
