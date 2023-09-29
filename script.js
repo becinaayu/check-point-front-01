@@ -1,3 +1,5 @@
+// Parte 5 e 6:
+
 let nome = "Beatriz";
 let idade = "18";
 let status = true;
@@ -10,9 +12,9 @@ console.log(status);
 console.log(valorProduto);
 console.log(listaTimes);
 
-// Parte 7
+// Parte 7:
 
-// Variáveis 
+// Variáveis -
 
 let n1 = 2;
 let n2 = 3;
@@ -20,7 +22,7 @@ let n3 = 4;
 let n4 = 5;
 let n5 = 6;
 
-// Operações 
+// Operações -
 
 let soma = n1+n2;
 let subtracao = n5-n3;
